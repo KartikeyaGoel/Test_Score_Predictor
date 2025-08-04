@@ -1,4 +1,4 @@
-# SOL Score Predictor
+# Test Score Predictor
 
 This project uses educational, demographic, and behavioral data to predict the **SOL (Standards of Learning) pass rate** for Virginia public schools using a **Random Forest Regressor**. It loads data from multiple sources, preprocesses and merges them, and trains a regression model to forecast performance based on school-level factors.
 
